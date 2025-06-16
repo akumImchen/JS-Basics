@@ -1,3 +1,4 @@
+// conditional statements 
 // if else statemnet
 // let age=19;
 // if(age>=19){
@@ -45,7 +46,7 @@
 //         console.log("doesnt exist ")   
 // }
 
-
+// LOOPS IN JS 
 // for(let i=0;i<=6;i++){
 //     console.log(i);
     
@@ -61,6 +62,8 @@
 // i++;
 // }
 // while(i<4);
+
+// FUNCTIONS IN JS 
 // function greet(){
 //     console.log("hello");
 // }
