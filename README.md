@@ -1,2 +1,2 @@
-# JS-Basics
+# JS
 basics  practice totally for JS
